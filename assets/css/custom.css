@@ -136,6 +136,9 @@ article div {
     width:100%;    
 }
 
+.vmiddle {
+    vertical-align: middle;
+}
 
 .titre {
     font-size: calc(3.3 * (0.5vw + 0.5vh));
@@ -143,6 +146,7 @@ article div {
 
 .sous-titre {
     font-size: calc(2.2 * (0.5vw + 0.5vh));
+    margin-bottom: .5rem;
 }
 .conteneur
 {
