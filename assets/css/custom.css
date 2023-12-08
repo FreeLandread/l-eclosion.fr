@@ -15,6 +15,12 @@ address {
     font-size: .8rem;
 }
 */
+
+.fresque {
+    padding: 0.5rem;
+    background-color: #ffffff;    
+}
+
 .bg-blanc {
     background-color: white;
 }
@@ -274,12 +280,6 @@ color: #0b3202;
 li {
     list-style-type: none;
     display:block;
-}
-
-.fresque {
-    padding: 0.5rem;
-    background-color: #ffffff;
-    
 }
 
 .soustitre {
