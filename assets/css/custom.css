@@ -276,6 +276,10 @@ li {
     display:block;
 }
 
+.fresque {
+    padding: 0.5rem;
+}
+
 .soustitre {
     margin: 0.5rem 0.25rem 0.25rem 0;
     padding: 0.25rem 0.25rem 0.25rem 0.5rem;
